@@ -2,7 +2,7 @@
 
 My name's Mason (he/him). I'm currently a Junior at Brown University studying computer science.
 
-I'm currently interested in deep learning and concurrent programming. In my free time, I like to play piano, tennis, and skiing.
+I'm currently interested in deep learning and concurrent programming. In my free time, I like to play piano, tennis, and ski.
 
 Feel free to reach out via [email](mailto:masontheburke@gmail.com)!
 
