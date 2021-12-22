@@ -21,6 +21,13 @@ Feel free to reach out via [email](mailto:masontheburke@gmail.com)!
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png"></code>
 
+<br/>
+<br/>
+
+**github stats:**
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mason-burke&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+
 <!--
 **mason-burke/mason-burke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
