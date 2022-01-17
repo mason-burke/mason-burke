@@ -1,4 +1,4 @@
-### hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 My name's Mason (he/him). I'm currently a Junior at Brown University studying computer science.
 
@@ -11,8 +11,49 @@ Feel free to reach out via [email](mailto:masontheburke@gmail.com)!
 </a>
 <br/>
 <br/>
+<br/>
 
-**languages and tools:**
+**Check Out My Projects on GitHub!**
+
+##### Machine Learning Projects
+
+<a href="https://github.com/mason-burke/feed-forward-MNIST">
+  MNIST Digit Classifier
+</a>
+<br/>
+
+<a href="https://github.com/mason-burke/machine-translation">
+  RNN and Transformer French to English Translator
+</a>
+<br/>
+
+<a href="https://github.com/mason-burke/classically-deep">
+  RNN Music Generation with MusicNet
+</a>
+<br/>
+
+##### Computer Systems Projects
+
+<a href="https://github.com/mason-burke/POSIX-database">
+  Database with Server and Concurrent Clients
+</a>
+<br/>
+
+<a href="https://github.com/mason-burke/shell">
+  Linux Shell
+</a>
+<br/>
+
+<a href="https://github.com/mason-burke/malloc">
+  Reimplementation of malloc(), free(), realloc()
+</a>
+<br/>
+
+
+<br/>
+<br/>
+
+**Languages and Tools:**
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
@@ -21,10 +62,12 @@ Feel free to reach out via [email](mailto:masontheburke@gmail.com)!
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png"></code>
 
+Currently learning JavaScript and Node.js.
+
 <br/>
 <br/>
 
-**github stats:**
+**GitHub Statistics:**
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mason-burke&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 
