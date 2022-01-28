@@ -1,6 +1,6 @@
 ### Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-My name's Mason (he/him). I'm currently a Junior at Brown University studying computer science.
+My name is Mason (he/him). I'm currently a Junior at Brown University studying computer science.
 
 I'm currently interested in deep learning and concurrent programming. In my free time, I like to play piano, tennis, and ski.
 
